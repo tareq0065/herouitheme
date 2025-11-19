@@ -4,6 +4,8 @@ A modern, lightweight starter template featuring **Next.js 15**, **HeroUI v2**, 
 
 This template is designed to be a solid foundation for any web application, offering a pre-configured theme system with dark mode support, multiple color presets, and layout options.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftareq0065%2Fherouitheme)
+
 ## 🚀 Features
 
 - **Framework**: Next.js 15 (App Router)
