@@ -49,7 +49,7 @@ export const siteConfig = {
 
   ],
   links: {
-    github: "https://github.com/tareq0065",
+    github: "https://github.com/tareq0065/herouitheme",
     twitter: "https://x.com/tareqaziz0065",
     docs: "https://heroui.com",
     sponsor: "https://patreon.com/TareqAziz?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",

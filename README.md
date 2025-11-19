@@ -22,7 +22,7 @@ This template is designed to be a solid foundation for any web application, offe
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/herouitheme.git
+    git clone https://github.com/tareq0065/herouitheme.git
     cd herouitheme
     ```
 

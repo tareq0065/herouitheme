@@ -3,8 +3,7 @@
 import React, { useState } from "react";
 import { ThemeCustomizer } from "./ThemeCustomizer";
 import { Settings2 } from "lucide-react";
-import { Button } from "@heroui/button";
-import { ScrollShadow } from "@heroui/scroll-shadow";
+import { Button, ScrollShadow } from "@heroui/react";
 
 interface ThemeShellProps {
   children: React.ReactNode;

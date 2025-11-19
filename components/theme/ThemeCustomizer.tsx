@@ -1,9 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
-import { Button } from "@heroui/button";
-import { Switch } from "@heroui/switch";
-import { Divider } from "@heroui/divider";
+import { Button, Switch, Divider } from "@heroui/react";
 import { X, Palette, LayoutTemplate, Moon, SunMedium } from "lucide-react";
 import { useThemeSettings } from "./ThemeSettingsContext";
 
