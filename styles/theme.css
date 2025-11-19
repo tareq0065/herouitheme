@@ -1,0 +1,29 @@
+/* Layout helpers shared across marketing and admin shells */
+
+/* Content width control */
+[data-content-width="compact"] .app-shell-inner {
+  max-width: 64rem;
+  /* ~1024px */
+  margin-inline: auto;
+}
+
+[data-content-width="wide"] .app-shell-inner {
+  max-width: 96rem;
+  /* ~1536px */
+  margin-inline: auto;
+}
+
+/* Semi dark admin sidebar */
+[data-semidark="true"] .admin-sidebar,
+.admin-sidebar--semidark {
+  background: radial-gradient(circle at top left, rgba(15, 23, 42, 1), rgba(15, 23, 42, 0.85));
+  color: rgba(248, 250, 252, 0.9);
+}
+
+[data-semidark="true"] .admin-sidebar a {
+  color: rgba(226, 232, 240, 0.9);
+}
+
+[data-semidark="true"] .admin-sidebar a:hover {
+  background-color: rgba(15, 23, 42, 0.9);
+}
